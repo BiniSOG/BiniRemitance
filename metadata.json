@@ -1,0 +1,7 @@
+{
+  "name": "Clone of CashGo Remittance App",
+  "description": "A high-fidelity remittance application simulation based on the CashGo UI, featuring money transfers, transaction history, and profile management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
